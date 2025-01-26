@@ -9,7 +9,10 @@
 
 <br>
 
-Hi, I'm Ranjeet kumar, a Frontend developer 👨🏻‍💻. .
+Hi, I'm Ranjeet Kumar, 
+I’m a passionate front-end developer with expertise in React.js and building dynamic, interactive, and user-friendly web applications. I love transforming complex ideas into seamless, functional designs while optimizing performance and accessibility.
+
+I’m always eager to collaborate on innovative projects, contribute to open-source, or share knowledge. Check out my repositories and let’s build something amazing together!
 
 <br>
 
