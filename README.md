@@ -20,8 +20,8 @@ Hi, I'm Ranjeet kumar, a Frontend developer 👨🏻‍💻. .
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />-->
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="290" height="200" />
 
- - 📫 How to reach me: [ranjeet9671k@gmail.com]();
- - 🔗 My Portfolio: [portfolio-web-gilt-ten.vercel.app]();
+ - 📫 How to reach me: [ranjeet9671k@gmail.com]
+ - 🔗 My Portfolio: [portfolio-web-gilt-ten.vercel.app]
  
  <be>
 
