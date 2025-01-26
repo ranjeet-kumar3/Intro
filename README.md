@@ -17,9 +17,9 @@ I’m always eager to collaborate on innovative projects, contribute to open-sou
 🛠️ Tech Stack & Skills
  <br>  .  Frameworks & Libraries: React.js, Redux, Context API
  <br>  .  Core Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
-   .  Styling Tools: TailwindCSS, Bootstrap, Styled Components,
-   .  Version Control: Git & GitHub
-   .  API Integration: REST APIs,
+ <br>  .  Styling Tools: TailwindCSS, Bootstrap, Styled Components,
+ <br>  .  Version Control: Git & GitHub
+  <br> .  API Integration: REST APIs,
   
 
 <br>
