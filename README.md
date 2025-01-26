@@ -14,7 +14,7 @@ I’m a passionate front-end developer with expertise in React.js and building d
 
 I’m always eager to collaborate on innovative projects, contribute to open-source, or share knowledge. Check out my repositories and let’s build something amazing together!
 
-🛠️ Tech Stack & Skills
+  <h1>🛠️ Tech Stack & Skills</h1>
  <br>  .  Frameworks & Libraries: React.js, Redux, Context API
  <br>  .  Core Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
  <br>  .  Styling Tools: TailwindCSS, Bootstrap, Styled Components,
